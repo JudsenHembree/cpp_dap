@@ -1,0 +1,4 @@
+/home/judsen/code/testing_grounds/cpp_dap/build/debug/CMakeFiles/NVIM_CPP_DAP.dir
+/home/judsen/code/testing_grounds/cpp_dap/build/debug/CMakeFiles/copy-compile-commands.dir
+/home/judsen/code/testing_grounds/cpp_dap/build/debug/CMakeFiles/edit_cache.dir
+/home/judsen/code/testing_grounds/cpp_dap/build/debug/CMakeFiles/rebuild_cache.dir

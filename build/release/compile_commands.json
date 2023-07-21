@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/judsen/code/testing_grounds/cpp_dap/build/release",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -Wall -O3 -std=gnu++11 -o CMakeFiles/NVIM_CPP_DAP.dir/main.cpp.o -c /home/judsen/code/testing_grounds/cpp_dap/main.cpp",
+  "file": "/home/judsen/code/testing_grounds/cpp_dap/main.cpp",
+  "output": "CMakeFiles/NVIM_CPP_DAP.dir/main.cpp.o"
+}
+]
